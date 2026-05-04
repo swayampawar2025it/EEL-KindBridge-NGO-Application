@@ -11,7 +11,7 @@ It provides a unified platform to discover, contribute, and engage with meaningf
 https://www.figma.com/design/uQFZhBguoHSEEUKRPquW4l/UIUX-Project?node-id=360-1574&t=BAQPOCU7xvzKWIo5-1
 
 ## YouTube Link
-https://youtube.com/shorts/K58KZmsBGmU?si=3PqM9RCv_cXFrrKZ
+https://youtube.com/shorts/K58KZmsBGmU?si=3PqM9RCv_cXFrrKZ](https://youtu.be/hSRtAGemYZw
 ---
 
 ## 📌 Project Overview
